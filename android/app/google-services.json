@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972324734709",
+    "firebase_url": "https://mydoctor-d9685.firebaseio.com",
+    "project_id": "mydoctor-d9685",
+    "storage_bucket": "mydoctor-d9685.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972324734709:android:fa3290e7fd58be481fe7bc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972324734709-i99a48raoher5b91sgmkcad51lr6r56p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMomDRHlkDERuNF2wnSrIVP7WwkkucPgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972324734709-i99a48raoher5b91sgmkcad51lr6r56p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
